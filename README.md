@@ -1,3 +1,3 @@
 # DIPLO2022
 
-Este sitio se construyó usando [GitHub Pages](https://www.kaggle.com/mauriciolugo)
+Las implementaciones y conceptos ESTADÍSTICOS  abordados Durante la Diplomatura en Ciencia de Datos, Inteligencia Artificial y sus aplicaciones en Economía y Negocios [Kaggle](https://www.kaggle.com/mauriciolugo)
