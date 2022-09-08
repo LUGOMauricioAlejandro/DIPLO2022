@@ -1,4 +1,4 @@
-# DIPLO2022
+# DIPLO_2022 - UNIVERSIDAD NACIONAL DE CÓRDOBA 
 
 Algunos fragmentos de códigos de implementaciones y conceptos ESTADÍSTICOS, abordados Durante la Diplomatura en Ciencia de Datos, Inteligencia Artificial y sus aplicaciones en Economía y Negocios -  Universidad Nacional de Córdoba - Argentina - #3 en El Ranking de Universidades Nacionales 
 
