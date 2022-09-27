@@ -7,4 +7,4 @@ La implementación se puede observar en el siguiente Link: [Kaggle](https://www.
 
 Mensaje para el observador de la Casta del Chapalele:
 
-Esa es la sutil pero gran diferencia entre la mafia del subsuelo del chapapalele con "academias" y una universidad seria 
+Esa es la sutil, pero gran diferencia, entre la mafia del subsuelo del chapapalele con "academias" y una universidad seria 
