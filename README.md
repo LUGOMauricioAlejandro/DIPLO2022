@@ -5,6 +5,3 @@ Algunos fragmentos de códigos de implementaciones y conceptos ESTADÍSTICOS, ab
 La implementación se puede observar en el siguiente Link: [Kaggle](https://www.kaggle.com/mauriciolugo/code)
 
 
-Mensaje para el observador de la Casta del Chapalele:
-
-Esa es la sutil, pero gran diferencia, entre la mafia del subsuelo del chapapalele con "academias" y una universidad seria 
